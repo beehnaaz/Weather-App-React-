@@ -1,4 +1,4 @@
 import React from "react";
 export default function SearchEngine() {
-  return <h1>Hello</h1>;
+  return <h1>WeatherApp</h1>;
 }
